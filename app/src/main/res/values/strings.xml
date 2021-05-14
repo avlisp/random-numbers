@@ -1,6 +1,0 @@
-<resources>
-    <string name="app_name">Random Numbers</string>
-    <string name="randomize">Randomize</string>
-    <string name="min">Min.</string>
-    <string name="max">Max.</string>
-</resources>
