@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Números Aleatórios</string>
+    <string name="min_hint">Mín</string>
+    <string name="max_hint">Máx</string>
+    <string name="generate">Gerar</string>
+</resources>
